@@ -1,0 +1,2 @@
+Meeting notes: discuss the local command assistant demo.
+Confirm the intended file before running a corrected command.

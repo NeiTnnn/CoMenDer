@@ -1,0 +1,18 @@
+# Generated test reports and logs
+CommandFix-results-*.csv
+*.log
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+.vscode/
+
+# Model weights are downloaded through Ollama, not stored in this repository
+*.gguf
+.ollama/
+
+# Archives and Windows metadata
+*.zip
+Thumbs.db
+Desktop.ini

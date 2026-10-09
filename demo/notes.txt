@@ -1,0 +1,3 @@
+CoMenDer repairs commands locally and asks before running a correction.
+This file is a safe read-only demo example.
+Try a misspelled command, filename or parameter.
