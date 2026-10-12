@@ -1,4 +1,4 @@
-# CoMenDer — Local AI Command Repair
+# CoMenDer — Your Local AI Command-Line Coworker
 
 > 直接輸入 PowerShell 指令。出錯時取得修正建議，確認後再執行。
 
